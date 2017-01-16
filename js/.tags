@@ -1,0 +1,165 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+$.ajax	.\zepto.js	/^  $.ajax = function(options){$/;"	f
+$.ajax.parseArguments	.\zepto.js	/^  function parseArguments(url, data, success, dataType) {$/;"	f
+$.ajaxSettings.accepts	.\zepto.js	/^    accepts: {$/;"	p
+$.ajaxSettings.beforeSend	.\zepto.js	/^    beforeSend: empty,$/;"	p
+$.ajaxSettings.complete	.\zepto.js	/^    complete: empty,$/;"	p
+$.ajaxSettings.context	.\zepto.js	/^    context: null,$/;"	p
+$.ajaxSettings.error	.\zepto.js	/^    error: empty,$/;"	p
+$.ajaxSettings.global	.\zepto.js	/^    global: true,$/;"	p
+$.ajaxSettings.success	.\zepto.js	/^    success: empty,$/;"	p
+$.ajaxSettings.type	.\zepto.js	/^    type: 'GET',$/;"	p
+$.ajaxSettings.xhr	.\zepto.js	/^    xhr: function () {$/;"	m
+$.fn.bind	.\zepto.js	/^  $.fn.bind = function(event, data, callback){$/;"	f
+$.fn.die	.\zepto.js	/^  $.fn.die = function(event, callback){$/;"	f
+$.fn.live	.\zepto.js	/^  $.fn.live = function(event, callback){$/;"	f
+$.fn.load	.\zepto.js	/^  $.fn.load = function(url, data, success){$/;"	f
+$.fn.off	.\zepto.js	/^  $.fn.off = function(event, selector, callback){$/;"	f
+$.fn.on	.\zepto.js	/^  $.fn.on = function(event, selector, data, callback, one){$/;"	f
+$.fn.one	.\zepto.js	/^  $.fn.one = function(event, selector, data, callback){$/;"	f
+$.fn.removeData	.\zepto.js	/^  $.fn.removeData = function(names) {$/;"	f
+$.fn.serialize	.\zepto.js	/^  $.fn.serialize = function(){$/;"	f
+$.fn.submit	.\zepto.js	/^  $.fn.submit = function(callback) {$/;"	f
+$.fn.triggerHandler	.\zepto.js	/^  $.fn.triggerHandler = function(event, args){$/;"	f
+$.fn.unbind	.\zepto.js	/^  $.fn.unbind = function(event, callback){$/;"	f
+$.fn.undelegate	.\zepto.js	/^  $.fn.undelegate = function(selector, event, callback){$/;"	f
+$.get	.\zepto.js	/^  $.get = function(\/* url, data, success, dataType *\/){$/;"	f
+$.getJSON	.\zepto.js	/^  $.getJSON = function(\/* url, data, success *\/){$/;"	f
+$.post	.\zepto.js	/^  $.post = function(\/* url, data, success, dataType *\/){$/;"	f
+$.post.$.param	.\zepto.js	/^  $.param = function(obj, traditional){$/;"	f
+$.proxy.returnTrue	.\zepto.js	/^  var returnTrue = function(){return true},$/;"	f
+$.proxy.var.proxyFn	.\zepto.js	/^      var proxyFn = function(){ return fn.apply(context, args ? args.concat(slice.call(arguments)) : arguments) }$/;"	f
+IScroll	.\iscroll.js	/^function IScroll (el, options) {$/;"	c
+IScroll._end	.\iscroll.js	/^	_end: function (e) {$/;"	m
+IScroll._execEvent	.\iscroll.js	/^	_execEvent: function (type) {$/;"	m
+IScroll._init	.\iscroll.js	/^	_init: function () {$/;"	m
+IScroll._initEvents	.\iscroll.js	/^	_initEvents: function (remove) {$/;"	m
+IScroll._move	.\iscroll.js	/^	_move: function (e) {$/;"	m
+IScroll._resize	.\iscroll.js	/^	_resize: function () {$/;"	m
+IScroll._start	.\iscroll.js	/^	_start: function (e) {$/;"	m
+IScroll._transitionEnd	.\iscroll.js	/^	_transitionEnd: function (e) {$/;"	m
+IScroll._transitionTime	.\iscroll.js	/^	_transitionTime: function (time) {$/;"	m
+IScroll._transitionTimingFunction	.\iscroll.js	/^	_transitionTimingFunction: function (easing) {$/;"	m
+IScroll._translate	.\iscroll.js	/^	_translate: function (x, y) {$/;"	m
+IScroll.destroy	.\iscroll.js	/^	destroy: function () {$/;"	m
+IScroll.disable	.\iscroll.js	/^	disable: function () {$/;"	m
+IScroll.enable	.\iscroll.js	/^	enable: function () {$/;"	m
+IScroll.getComputedPosition	.\iscroll.js	/^	getComputedPosition: function () {$/;"	m
+IScroll.off	.\iscroll.js	/^	off: function (type, fn) {$/;"	m
+IScroll.on	.\iscroll.js	/^	on: function (type, fn) {$/;"	m
+IScroll.options.mouseWheelSpeed	.\iscroll.js	/^		mouseWheelSpeed: 20,$/;"	p
+IScroll.options.resizeScrollbars	.\iscroll.js	/^		resizeScrollbars: true,$/;"	p
+IScroll.options.snapThreshold	.\iscroll.js	/^		snapThreshold: 0.334,$/;"	p
+IScroll.refresh	.\iscroll.js	/^	refresh: function () {$/;"	m
+IScroll.resetPosition	.\iscroll.js	/^	resetPosition: function (time) {$/;"	m
+IScroll.scrollBy	.\iscroll.js	/^	scrollBy: function (x, y, time, easing) {$/;"	m
+IScroll.scrollTo	.\iscroll.js	/^	scrollTo: function (x, y, time, easing) {$/;"	m
+IScroll.scrollToElement	.\iscroll.js	/^	scrollToElement: function (el, time, offsetX, offsetY, easing) {$/;"	m
+IScroll.version	.\iscroll.js	/^	version: '5.1.2',$/;"	p
+Indicator	.\iscroll.js	/^function Indicator (scroller, options) {$/;"	c
+Indicator._end	.\iscroll.js	/^	_end: function (e) {$/;"	m
+Indicator._move	.\iscroll.js	/^	_move: function (e) {$/;"	m
+Indicator._pos	.\iscroll.js	/^	_pos: function (x, y) {$/;"	m
+Indicator._start	.\iscroll.js	/^	_start: function (e) {$/;"	m
+Indicator.destroy	.\iscroll.js	/^	destroy: function () {$/;"	m
+Indicator.fade	.\iscroll.js	/^	fade: function (val, hold) {$/;"	m
+Indicator.handleEvent	.\iscroll.js	/^	handleEvent: function (e) {$/;"	m
+Indicator.options.defaultScrollbars	.\iscroll.js	/^		defaultScrollbars: false,$/;"	p
+Indicator.options.fade	.\iscroll.js	/^		fade: false,$/;"	p
+Indicator.options.interactive	.\iscroll.js	/^		interactive: false,$/;"	p
+Indicator.options.listenX	.\iscroll.js	/^		listenX: true,$/;"	p
+Indicator.options.listenY	.\iscroll.js	/^		listenY: true,$/;"	p
+Indicator.options.resize	.\iscroll.js	/^		resize: true,$/;"	p
+Indicator.options.shrink	.\iscroll.js	/^		shrink: false,$/;"	p
+Indicator.options.speedRatioX	.\iscroll.js	/^		speedRatioX: 0,$/;"	p
+Indicator.options.speedRatioY	.\iscroll.js	/^		speedRatioY: 0$/;"	p
+Indicator.refresh	.\iscroll.js	/^	refresh: function () {$/;"	m
+Indicator.transitionTime	.\iscroll.js	/^	transitionTime: function (time) {$/;"	m
+Indicator.transitionTimingFunction	.\iscroll.js	/^	transitionTimingFunction: function (easing) {$/;"	m
+Indicator.updatePosition	.\iscroll.js	/^	updatePosition: function () {$/;"	m
+SingleFoodList	.\module\widget\singleFoodList.js	/^function SingleFoodList(obj){$/;"	c
+SingleFoodList.changeNum	.\module\widget\singleFoodList.js	/^SingleFoodList.prototype.changeNum = function(){$/;"	m
+SingleFoodList.loadCartList	.\module\widget\singleFoodList.js	/^SingleFoodList.prototype.loadCartList = function(){$/;"	m
+SingleFoodList.loadFoodList	.\module\widget\singleFoodList.js	/^SingleFoodList.prototype.loadFoodList = function(){$/;"	m
+SingleFoodList.minus	.\module\widget\singleFoodList.js	/^SingleFoodList.prototype.minus = function(){$/;"	m
+SingleFoodList.plus	.\module\widget\singleFoodList.js	/^SingleFoodList.prototype.plus = function(){$/;"	m
+Store	.\index.js	/^function Store(nameSpace, data){$/;"	f
+_indicatorsMap	.\iscroll.js	/^		function _indicatorsMap (fn) {$/;"	f
+abort	.\zepto.js	/^      xhr = { abort: abort }, abortTimeout$/;"	p
+ajaxBeforeSend.setData.$.fn.data	.\zepto.js	/^  $.fn.data = function(name, value) {$/;"	f
+ajaxError.appendQuery	.\zepto.js	/^  function appendQuery(url, query) {$/;"	f
+ajaxError.mimeToDataType	.\zepto.js	/^  function mimeToDataType(mime) {$/;"	f
+ajaxError.serializeData	.\zepto.js	/^  function serializeData(options) {$/;"	f
+baidu	.\module\searchObj.js	/^		var baidu = $("#baidu");$/;"	v
+cartListObj.addCart	.\module\widget\cartList.js	/^	addCart:function(obj){$/;"	m
+cartListObj.bindEvent	.\module\widget\cartList.js	/^	bindEvent:function(){$/;"	m
+cartListObj.cartHide	.\module\widget\cartList.js	/^	cartHide:function (){$/;"	m
+cartListObj.cartShow	.\module\widget\cartList.js	/^	cartShow:function (){$/;"	m
+cartListObj.deleteCart	.\module\widget\cartList.js	/^	deleteCart:function(curCartObj){$/;"	m
+cartListObj.domInit	.\module\widget\cartList.js	/^	domInit:function(){$/;"	m
+cartListObj.init	.\module\widget\cartList.js	/^	init:function(){$/;"	m
+cartListObj.removeCart	.\module\widget\cartList.js	/^	removeCart:function (){$/;"	m
+cartListObj.sTotalPrice	.\module\widget\cartList.js	/^	sTotalPrice:function(curObj,curId){$/;"	m
+cartListObj.toggle	.\module\widget\cartList.js	/^	toggle:function (){$/;"	m
+compatible.$.fn.delegate	.\zepto.js	/^  $.fn.delegate = function(selector, event, callback){$/;"	f
+compatible.createProxy.key.originalEvent	.\zepto.js	/^    var key, proxy = { originalEvent: event }$/;"	p
+createDefaultScrollbar	.\iscroll.js	/^function createDefaultScrollbar (direction, interactive, type) {$/;"	f
+curModule	.\index.js	/^var curModule = null;  \/\/当前模块$/;"	v
+currentPage.pageX	.\iscroll.js	/^			pageX: x,$/;"	p
+currentPage.pageY	.\iscroll.js	/^			pageY: y$/;"	p
+currentPage.x	.\iscroll.js	/^			x: posX,$/;"	p
+currentPage.y	.\iscroll.js	/^			y: posY,$/;"	p
+down	.\iscroll.js	/^			down: 40$/;"	p
+end	.\iscroll.js	/^			end: 35,$/;"	p
+findHandlers.$.event.add	.\zepto.js	/^  $.event = { add: add, remove: remove }$/;"	p
+findHandlers.$.event.remove	.\zepto.js	/^  $.event = { add: add, remove: remove }$/;"	p
+findHandlers.add.remove	.\zepto.js	/^  function remove(element, events, fn, selector, capture){$/;"	f
+findHandlers.eventCapture	.\zepto.js	/^  function eventCapture(handler, captureSetting) {$/;"	f
+findHandlers.matcherFor	.\zepto.js	/^  function matcherFor(ns) {$/;"	f
+findHandlers.parse	.\zepto.js	/^  function parse(event) {$/;"	f
+findHandlers.realEvent	.\zepto.js	/^  function realEvent(type) {$/;"	f
+fn.serializeArray	.\zepto.js	/^;(function($){$/;"	f
+function.ajaxBeforeSend.ajaxSuccess	.\zepto.js	/^  function ajaxSuccess(data, xhr, settings, deferred) {$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.ajaxError	.\zepto.js	/^  function ajaxError(error, type, xhr, settings, deferred) {$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.ajaxError.$.ajaxJSONP	.\zepto.js	/^  $.ajaxJSONP = function(options, deferred){$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.ajaxError.ajaxComplete	.\zepto.js	/^  function ajaxComplete(status, xhr, settings) {$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.ajaxError.ajaxComplete.empty	.\zepto.js	/^  function empty() {}$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.window	.\zepto.js	/^    window[callbackName] = function(){$/;"	f
+function.ajaxStop	.\zepto.js	/^  function ajaxStop(settings) {$/;"	f
+function.isPointerEventType	.\zepto.js	/^  function isPointerEventType(e, type){$/;"	f
+function.isPrimaryTouch	.\zepto.js	/^  function isPrimaryTouch(event){$/;"	f
+function.longTap	.\zepto.js	/^  function longTap() {$/;"	f
+function.triggerGlobal	.\zepto.js	/^  function triggerGlobal(settings, context, eventName, data) {$/;"	f
+hash	.\index.js	/^var hash = location.hash;$/;"	v
+hashMap.address	.\index.js	/^	'address': searchObj,$/;"	p
+hashMap.citylist	.\index.js	/^	'citylist': citylistObj$/;"	p
+hashMap.detail	.\index.js	/^	'detail': detailObj,$/;"	p
+hashMap.rlist	.\index.js	/^	'rlist': rlistObj,$/;"	p
+home	.\iscroll.js	/^			home: 36,$/;"	p
+i	.\iscroll.js	/^		var i = 0,$/;"	v
+i	.\iscroll.js	/^		var i;$/;"	v
+imagePath	.\index.js	/^function imagePath(res,i){$/;"	f
+indicator.el	.\iscroll.js	/^					el: createDefaultScrollbar('h', interactive, this.options.scrollbars),$/;"	p
+indicator.el	.\iscroll.js	/^					el: createDefaultScrollbar('v', interactive, this.options.scrollbars),$/;"	p
+left	.\iscroll.js	/^			left: 37,$/;"	p
+longTap.cancelAll	.\zepto.js	/^  function cancelAll() {$/;"	f
+longTap.cancelLongTap	.\zepto.js	/^  function cancelLongTap() {$/;"	f
+mouseenter	.\zepto.js	/^      hover = { mouseenter: 'mouseover', mouseleave: 'mouseout' }$/;"	p
+mouseleave	.\zepto.js	/^      hover = { mouseenter: 'mouseover', mouseleave: 'mouseout' }$/;"	p
+pageDown	.\iscroll.js	/^			pageDown: 34,$/;"	p
+pageUp	.\iscroll.js	/^			pageUp: 33,$/;"	p
+prevModule	.\index.js	/^var prevModule = null; \/\/前一个模块$/;"	v
+right	.\iscroll.js	/^			right: 39,$/;"	p
+routeController	.\index.js	/^function routeController(hash){$/;"	f
+searchObj.dom	.\module\searchObj.js	/^	dom: $('#address'),$/;"	p
+searchObj.name	.\module\searchObj.js	/^	name: '地址搜索页',$/;"	p
+split.Event	.\zepto.js	/^  ;('focusin focusout focus blur load resize scroll unload click dblclick '+$/;"	f
+step	.\iscroll.js	/^		function step () {$/;"	f
+up	.\iscroll.js	/^			up: 38,$/;"	p
+window.getComputedStyle	.\zepto.js	/^    window.getComputedStyle = function(element){$/;"	f
+window.onhashchange	.\index.js	/^window.onhashchange = function(){$/;"	f

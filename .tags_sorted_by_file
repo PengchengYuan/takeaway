@@ -1,0 +1,165 @@
+Store	js\index.js	/^function Store(nameSpace, data){$/;"	f
+curModule	js\index.js	/^var curModule = null;  \/\/当前模块$/;"	v
+hash	js\index.js	/^var hash = location.hash;$/;"	v
+hashMap.address	js\index.js	/^	'address': searchObj,$/;"	p
+hashMap.citylist	js\index.js	/^	'citylist': citylistObj$/;"	p
+hashMap.detail	js\index.js	/^	'detail': detailObj,$/;"	p
+hashMap.rlist	js\index.js	/^	'rlist': rlistObj,$/;"	p
+imagePath	js\index.js	/^function imagePath(res,i){$/;"	f
+prevModule	js\index.js	/^var prevModule = null; \/\/前一个模块$/;"	v
+routeController	js\index.js	/^function routeController(hash){$/;"	f
+window.onhashchange	js\index.js	/^window.onhashchange = function(){$/;"	f
+IScroll	js\iscroll.js	/^function IScroll (el, options) {$/;"	c
+IScroll._end	js\iscroll.js	/^	_end: function (e) {$/;"	m
+IScroll._execEvent	js\iscroll.js	/^	_execEvent: function (type) {$/;"	m
+IScroll._init	js\iscroll.js	/^	_init: function () {$/;"	m
+IScroll._initEvents	js\iscroll.js	/^	_initEvents: function (remove) {$/;"	m
+IScroll._move	js\iscroll.js	/^	_move: function (e) {$/;"	m
+IScroll._resize	js\iscroll.js	/^	_resize: function () {$/;"	m
+IScroll._start	js\iscroll.js	/^	_start: function (e) {$/;"	m
+IScroll._transitionEnd	js\iscroll.js	/^	_transitionEnd: function (e) {$/;"	m
+IScroll._transitionTime	js\iscroll.js	/^	_transitionTime: function (time) {$/;"	m
+IScroll._transitionTimingFunction	js\iscroll.js	/^	_transitionTimingFunction: function (easing) {$/;"	m
+IScroll._translate	js\iscroll.js	/^	_translate: function (x, y) {$/;"	m
+IScroll.destroy	js\iscroll.js	/^	destroy: function () {$/;"	m
+IScroll.disable	js\iscroll.js	/^	disable: function () {$/;"	m
+IScroll.enable	js\iscroll.js	/^	enable: function () {$/;"	m
+IScroll.getComputedPosition	js\iscroll.js	/^	getComputedPosition: function () {$/;"	m
+IScroll.off	js\iscroll.js	/^	off: function (type, fn) {$/;"	m
+IScroll.on	js\iscroll.js	/^	on: function (type, fn) {$/;"	m
+IScroll.options.mouseWheelSpeed	js\iscroll.js	/^		mouseWheelSpeed: 20,$/;"	p
+IScroll.options.resizeScrollbars	js\iscroll.js	/^		resizeScrollbars: true,$/;"	p
+IScroll.options.snapThreshold	js\iscroll.js	/^		snapThreshold: 0.334,$/;"	p
+IScroll.refresh	js\iscroll.js	/^	refresh: function () {$/;"	m
+IScroll.resetPosition	js\iscroll.js	/^	resetPosition: function (time) {$/;"	m
+IScroll.scrollBy	js\iscroll.js	/^	scrollBy: function (x, y, time, easing) {$/;"	m
+IScroll.scrollTo	js\iscroll.js	/^	scrollTo: function (x, y, time, easing) {$/;"	m
+IScroll.scrollToElement	js\iscroll.js	/^	scrollToElement: function (el, time, offsetX, offsetY, easing) {$/;"	m
+IScroll.version	js\iscroll.js	/^	version: '5.1.2',$/;"	p
+Indicator	js\iscroll.js	/^function Indicator (scroller, options) {$/;"	c
+Indicator._end	js\iscroll.js	/^	_end: function (e) {$/;"	m
+Indicator._move	js\iscroll.js	/^	_move: function (e) {$/;"	m
+Indicator._pos	js\iscroll.js	/^	_pos: function (x, y) {$/;"	m
+Indicator._start	js\iscroll.js	/^	_start: function (e) {$/;"	m
+Indicator.destroy	js\iscroll.js	/^	destroy: function () {$/;"	m
+Indicator.fade	js\iscroll.js	/^	fade: function (val, hold) {$/;"	m
+Indicator.handleEvent	js\iscroll.js	/^	handleEvent: function (e) {$/;"	m
+Indicator.options.defaultScrollbars	js\iscroll.js	/^		defaultScrollbars: false,$/;"	p
+Indicator.options.fade	js\iscroll.js	/^		fade: false,$/;"	p
+Indicator.options.interactive	js\iscroll.js	/^		interactive: false,$/;"	p
+Indicator.options.listenX	js\iscroll.js	/^		listenX: true,$/;"	p
+Indicator.options.listenY	js\iscroll.js	/^		listenY: true,$/;"	p
+Indicator.options.resize	js\iscroll.js	/^		resize: true,$/;"	p
+Indicator.options.shrink	js\iscroll.js	/^		shrink: false,$/;"	p
+Indicator.options.speedRatioX	js\iscroll.js	/^		speedRatioX: 0,$/;"	p
+Indicator.options.speedRatioY	js\iscroll.js	/^		speedRatioY: 0$/;"	p
+Indicator.refresh	js\iscroll.js	/^	refresh: function () {$/;"	m
+Indicator.transitionTime	js\iscroll.js	/^	transitionTime: function (time) {$/;"	m
+Indicator.transitionTimingFunction	js\iscroll.js	/^	transitionTimingFunction: function (easing) {$/;"	m
+Indicator.updatePosition	js\iscroll.js	/^	updatePosition: function () {$/;"	m
+_indicatorsMap	js\iscroll.js	/^		function _indicatorsMap (fn) {$/;"	f
+createDefaultScrollbar	js\iscroll.js	/^function createDefaultScrollbar (direction, interactive, type) {$/;"	f
+currentPage.pageX	js\iscroll.js	/^			pageX: x,$/;"	p
+currentPage.pageY	js\iscroll.js	/^			pageY: y$/;"	p
+currentPage.x	js\iscroll.js	/^			x: posX,$/;"	p
+currentPage.y	js\iscroll.js	/^			y: posY,$/;"	p
+down	js\iscroll.js	/^			down: 40$/;"	p
+end	js\iscroll.js	/^			end: 35,$/;"	p
+home	js\iscroll.js	/^			home: 36,$/;"	p
+i	js\iscroll.js	/^		var i = 0,$/;"	v
+i	js\iscroll.js	/^		var i;$/;"	v
+indicator.el	js\iscroll.js	/^					el: createDefaultScrollbar('h', interactive, this.options.scrollbars),$/;"	p
+indicator.el	js\iscroll.js	/^					el: createDefaultScrollbar('v', interactive, this.options.scrollbars),$/;"	p
+left	js\iscroll.js	/^			left: 37,$/;"	p
+pageDown	js\iscroll.js	/^			pageDown: 34,$/;"	p
+pageUp	js\iscroll.js	/^			pageUp: 33,$/;"	p
+right	js\iscroll.js	/^			right: 39,$/;"	p
+step	js\iscroll.js	/^		function step () {$/;"	f
+up	js\iscroll.js	/^			up: 38,$/;"	p
+baidu	js\module\searchObj.js	/^		var baidu = $("#baidu");$/;"	v
+searchObj.dom	js\module\searchObj.js	/^	dom: $('#address'),$/;"	p
+searchObj.name	js\module\searchObj.js	/^	name: '地址搜索页',$/;"	p
+cartListObj.addCart	js\module\widget\cartList.js	/^	addCart:function(obj){$/;"	m
+cartListObj.bindEvent	js\module\widget\cartList.js	/^	bindEvent:function(){$/;"	m
+cartListObj.cartHide	js\module\widget\cartList.js	/^	cartHide:function (){$/;"	m
+cartListObj.cartShow	js\module\widget\cartList.js	/^	cartShow:function (){$/;"	m
+cartListObj.deleteCart	js\module\widget\cartList.js	/^	deleteCart:function(curCartObj){$/;"	m
+cartListObj.domInit	js\module\widget\cartList.js	/^	domInit:function(){$/;"	m
+cartListObj.init	js\module\widget\cartList.js	/^	init:function(){$/;"	m
+cartListObj.removeCart	js\module\widget\cartList.js	/^	removeCart:function (){$/;"	m
+cartListObj.sTotalPrice	js\module\widget\cartList.js	/^	sTotalPrice:function(curObj,curId){$/;"	m
+cartListObj.toggle	js\module\widget\cartList.js	/^	toggle:function (){$/;"	m
+SingleFoodList	js\module\widget\singleFoodList.js	/^function SingleFoodList(obj){$/;"	c
+SingleFoodList.changeNum	js\module\widget\singleFoodList.js	/^SingleFoodList.prototype.changeNum = function(){$/;"	m
+SingleFoodList.loadCartList	js\module\widget\singleFoodList.js	/^SingleFoodList.prototype.loadCartList = function(){$/;"	m
+SingleFoodList.loadFoodList	js\module\widget\singleFoodList.js	/^SingleFoodList.prototype.loadFoodList = function(){$/;"	m
+SingleFoodList.minus	js\module\widget\singleFoodList.js	/^SingleFoodList.prototype.minus = function(){$/;"	m
+SingleFoodList.plus	js\module\widget\singleFoodList.js	/^SingleFoodList.prototype.plus = function(){$/;"	m
+$.ajax	js\zepto.js	/^  $.ajax = function(options){$/;"	f
+$.ajax.parseArguments	js\zepto.js	/^  function parseArguments(url, data, success, dataType) {$/;"	f
+$.ajaxSettings.accepts	js\zepto.js	/^    accepts: {$/;"	p
+$.ajaxSettings.beforeSend	js\zepto.js	/^    beforeSend: empty,$/;"	p
+$.ajaxSettings.complete	js\zepto.js	/^    complete: empty,$/;"	p
+$.ajaxSettings.context	js\zepto.js	/^    context: null,$/;"	p
+$.ajaxSettings.error	js\zepto.js	/^    error: empty,$/;"	p
+$.ajaxSettings.global	js\zepto.js	/^    global: true,$/;"	p
+$.ajaxSettings.success	js\zepto.js	/^    success: empty,$/;"	p
+$.ajaxSettings.type	js\zepto.js	/^    type: 'GET',$/;"	p
+$.ajaxSettings.xhr	js\zepto.js	/^    xhr: function () {$/;"	m
+$.fn.bind	js\zepto.js	/^  $.fn.bind = function(event, data, callback){$/;"	f
+$.fn.die	js\zepto.js	/^  $.fn.die = function(event, callback){$/;"	f
+$.fn.live	js\zepto.js	/^  $.fn.live = function(event, callback){$/;"	f
+$.fn.load	js\zepto.js	/^  $.fn.load = function(url, data, success){$/;"	f
+$.fn.off	js\zepto.js	/^  $.fn.off = function(event, selector, callback){$/;"	f
+$.fn.on	js\zepto.js	/^  $.fn.on = function(event, selector, data, callback, one){$/;"	f
+$.fn.one	js\zepto.js	/^  $.fn.one = function(event, selector, data, callback){$/;"	f
+$.fn.removeData	js\zepto.js	/^  $.fn.removeData = function(names) {$/;"	f
+$.fn.serialize	js\zepto.js	/^  $.fn.serialize = function(){$/;"	f
+$.fn.submit	js\zepto.js	/^  $.fn.submit = function(callback) {$/;"	f
+$.fn.triggerHandler	js\zepto.js	/^  $.fn.triggerHandler = function(event, args){$/;"	f
+$.fn.unbind	js\zepto.js	/^  $.fn.unbind = function(event, callback){$/;"	f
+$.fn.undelegate	js\zepto.js	/^  $.fn.undelegate = function(selector, event, callback){$/;"	f
+$.get	js\zepto.js	/^  $.get = function(\/* url, data, success, dataType *\/){$/;"	f
+$.getJSON	js\zepto.js	/^  $.getJSON = function(\/* url, data, success *\/){$/;"	f
+$.post	js\zepto.js	/^  $.post = function(\/* url, data, success, dataType *\/){$/;"	f
+$.post.$.param	js\zepto.js	/^  $.param = function(obj, traditional){$/;"	f
+$.proxy.returnTrue	js\zepto.js	/^  var returnTrue = function(){return true},$/;"	f
+$.proxy.var.proxyFn	js\zepto.js	/^      var proxyFn = function(){ return fn.apply(context, args ? args.concat(slice.call(arguments)) : arguments) }$/;"	f
+abort	js\zepto.js	/^      xhr = { abort: abort }, abortTimeout$/;"	p
+ajaxBeforeSend.setData.$.fn.data	js\zepto.js	/^  $.fn.data = function(name, value) {$/;"	f
+ajaxError.appendQuery	js\zepto.js	/^  function appendQuery(url, query) {$/;"	f
+ajaxError.mimeToDataType	js\zepto.js	/^  function mimeToDataType(mime) {$/;"	f
+ajaxError.serializeData	js\zepto.js	/^  function serializeData(options) {$/;"	f
+compatible.$.fn.delegate	js\zepto.js	/^  $.fn.delegate = function(selector, event, callback){$/;"	f
+compatible.createProxy.key.originalEvent	js\zepto.js	/^    var key, proxy = { originalEvent: event }$/;"	p
+findHandlers.$.event.add	js\zepto.js	/^  $.event = { add: add, remove: remove }$/;"	p
+findHandlers.$.event.remove	js\zepto.js	/^  $.event = { add: add, remove: remove }$/;"	p
+findHandlers.add.remove	js\zepto.js	/^  function remove(element, events, fn, selector, capture){$/;"	f
+findHandlers.eventCapture	js\zepto.js	/^  function eventCapture(handler, captureSetting) {$/;"	f
+findHandlers.matcherFor	js\zepto.js	/^  function matcherFor(ns) {$/;"	f
+findHandlers.parse	js\zepto.js	/^  function parse(event) {$/;"	f
+findHandlers.realEvent	js\zepto.js	/^  function realEvent(type) {$/;"	f
+fn.serializeArray	js\zepto.js	/^;(function($){$/;"	f
+function.ajaxBeforeSend.ajaxSuccess	js\zepto.js	/^  function ajaxSuccess(data, xhr, settings, deferred) {$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.ajaxError	js\zepto.js	/^  function ajaxError(error, type, xhr, settings, deferred) {$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.ajaxError.$.ajaxJSONP	js\zepto.js	/^  $.ajaxJSONP = function(options, deferred){$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.ajaxError.ajaxComplete	js\zepto.js	/^  function ajaxComplete(status, xhr, settings) {$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.ajaxError.ajaxComplete.empty	js\zepto.js	/^  function empty() {}$/;"	f
+function.ajaxBeforeSend.ajaxSuccess.window	js\zepto.js	/^    window[callbackName] = function(){$/;"	f
+function.ajaxStop	js\zepto.js	/^  function ajaxStop(settings) {$/;"	f
+function.isPointerEventType	js\zepto.js	/^  function isPointerEventType(e, type){$/;"	f
+function.isPrimaryTouch	js\zepto.js	/^  function isPrimaryTouch(event){$/;"	f
+function.longTap	js\zepto.js	/^  function longTap() {$/;"	f
+function.triggerGlobal	js\zepto.js	/^  function triggerGlobal(settings, context, eventName, data) {$/;"	f
+longTap.cancelAll	js\zepto.js	/^  function cancelAll() {$/;"	f
+longTap.cancelLongTap	js\zepto.js	/^  function cancelLongTap() {$/;"	f
+mouseenter	js\zepto.js	/^      hover = { mouseenter: 'mouseover', mouseleave: 'mouseout' }$/;"	p
+mouseleave	js\zepto.js	/^      hover = { mouseenter: 'mouseover', mouseleave: 'mouseout' }$/;"	p
+split.Event	js\zepto.js	/^  ;('focusin focusout focus blur load resize scroll unload click dblclick '+$/;"	f
+window.getComputedStyle	js\zepto.js	/^    window.getComputedStyle = function(element){$/;"	f
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/

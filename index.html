@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>外卖平台</title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/index.css">
+	<script src="js/rem.js"></script>
+</head>
+<body>
+	<div id="address" class="section">
+		<div class="addressWrap">
+			<div class="header">
+				<h1 class="city-name">上海</h1>
+				<p class="cur"><a href="#citylist">切换城市</a></p>
+			</div>
+			<div>
+				<input type="text" id="keyword" placeholder="请输入要搜索地名">
+			</div>
+			<button id="query">饿了么搜索</button><button id="baidu">百度搜索</button>
+		</div>
+		<ul id="list"></ul>
+	</div>
+	<div id="detail" class="section">
+		<div class="shopping">
+	    	<div class="shopping-header">
+	    		<div class="mark"></div>
+    			<div class="shopping-head">
+    			    <div class="head-left"><img src="" alt=""></div>
+    			    <div class="head-right">
+    			       <b></b>
+    			       <p>
+    			           <span>蜂鸟专送</span> / 
+    			           <span><span>48</span>分钟送达</span> / 
+    			           <span>配送费¥4</span>
+    			       </p>
+    			       <p>新用户下单立减20.0元(不与其它活动同享)</p>
+    			    </div>
+    			</div>
+    			<div class="shopping-notice">
+    			    <div class="gonggao">公告</div>
+    			    <p class="tip">欢迎光临，用餐高峰期请提前下单，谢谢。</p> 
+    			</div>
+	    		<div class="shopping-noticeBG">
+	    		</div>
+	    	</div>
+	    	<!-- 内容 -->
+	    	<div class="shopping-content">
+	    	    <div class="nav-left">
+	    	        <ul class="navle-list"> 
+	    	            <li class="food-active">热销产品</li>
+	    	            <li>热销产品</li>
+	    	        </ul>
+	    	    </div>
+	    	    <div class="nav-right"></div>
+	    	</div>
+	    	<div class="footMark"></div>
+	    	<div class="shopping-footer">
+	    		<div class="cartlist">
+	    			<div class="carmessage-wrap">
+	    				<div class="carmessage-top">
+	    					<div class="carme-left"><span></span>购物车</div>
+	    					<div class="carme-right">
+	    						<img class="rabish" src="img/del.jpg">清空
+	    					</div>
+	    				</div>
+	    				<div class="carmessage-list">
+	    					<!-- <div class="food-info">
+	    						<div class="food-txt">
+	    							<b>泡菜回锅肉特价</b>
+	    							<p class="pri">
+	    								<span class="price">￥19</span>
+	    								<span class="num-area">
+	    									<span class="minus">-</span>
+	    									<span class="num">0</span>
+	    									<span class="plus">+</span>
+	    								</span>
+	    							</p>
+	    						</div>
+	    					</div> -->
+	    				</div>
+	    			</div>
+	    		</div>
+	    	    <div class="cartfooter">
+	    	         <span class="carticon"><img src="img/black.png" alt=""></span>
+	    	         <span class="carcount">1</span>
+	    	         <div class="carpri">
+	    	            <p class="carprice">￥23</p>
+	    	            <p class="carget">配送费￥4</p>
+	    	            <a href="javascript:;">去结算</a>
+	    	         </div>
+	    	    </div>
+	    	</div>
+	    </div>
+	</div>
+	<div id="citylist" class="section">
+		<h2>欢迎您，请选择您所在城市</h2>
+		<div class="cont">
+			<div class="nowCity">
+				<div class="top">
+					<span>当前定位城市</span><i>定位不准时，请在城市列表中选择</i>
+				</div>
+				<div class="bottom">
+					上海
+				</div>
+			</div>
+			<div class="hotCity">
+				<div class="top">热门城市
+				</div>
+				<div class="bottom"></div>
+			</div>
+			<div class="otherCity"></div>
+		</div>
+	</div>
+	<div id="rlist" class="section">
+		<div class="areaWrap">
+			<h3 class="area"><a href="#citylist">商户名字</a><span>附近商家</span></h3>
+		</div>
+		<div class="cont">
+			<div class="scroll">
+				<div class="banner">
+					<div class="bannerWrap">
+						<div class="swipe-item first"></div>
+						<div class="swipe-item second"></div>
+					</div>
+					<div class="mark">
+						<span class="mFirst"></span><span class="mSecond"></span>
+					</div>
+				</div>
+				<h3 class="index-title"> 
+					<img src="img/fjsj.bmp" alt="">
+					<span>附近商家</span> 
+				</h3>
+				<ul id="ranList" class="ranList"></ul>
+			</div>
+		</div>
+		<div class="returnTop">
+			<h3 class="return">返回顶部</h3>
+		</div>
+	</div>
+	
+	<script src="js/zepto.js"></script>
+	<script src="js/iscroll.js"></script>
+
+	<script src="js/module/widget/cartList.js"></script>
+	<script src="js/module/widget/singleFoodList.js"></script>
+
+
+
+
+	<script src="js/module/searchObj.js"></script>
+	<script src="js/module/citylistObj.js"></script>
+	<script src="js/module/detailObj.js"></script>
+	<script src="js/module/rlistObj.js"></script>
+	<script src="js/index.js"></script>
+</body>
+</html>
